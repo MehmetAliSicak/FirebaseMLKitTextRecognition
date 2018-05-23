@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "555294611252",
+    "firebase_url": "https://mlkit-textrecognition.firebaseio.com",
+    "project_id": "mlkit-textrecognition",
+    "storage_bucket": "mlkit-textrecognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555294611252:android:44e46706d1da82ef",
+        "android_client_info": {
+          "package_name": "com.mas.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555294611252-vse0pvihl4g6dinhuc2g3lscdcrl0ehs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwFdLCJ-d7DjSqIqy-ykQPioCn1FaxhzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
